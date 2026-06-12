@@ -2,10 +2,6 @@
 
 Το **Bulk File Renamer** είναι ένα ισχυρό, γρήγορο και ασφαλές εργαλείο για Windows, σχεδιασμένο να κάνει τη μαζική μετονομασία αρχείων μια απλή και ξεκούραστη διαδικασία.
 
-![Windows](https://img.shields.io/badge/OS-Windows_10_%26_11-0078d4?style=for-the-badge&logo=windows)
-![Java](https://img.shields.io/badge/No_Java_Required-Bundled_JRE-2ecc71?style=for-the-badge)
-![Commercial](https://img.shields.io/badge/License-Commercial-e74c3c?style=for-the-badge)
-
 ---
 
 ## 🚀 Κύρια Χαρακτηριστικά
